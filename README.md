@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github">
 <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff">
-<img href="http://linkedin.com/in/SiavashMehran" src="https://img.shields.io/badge/linkedIn-Siavash-blue">
+<a href="http://linkedin.com/in/SiavashMehran"><img src="https://img.shields.io/badge/linkedIn-Siavash-blue"></a>
 
 <!---
 siavashMehran/siavashMehran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
