@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff">
 
-<h1>Social media</h1>
+<h1>Social media Links</h1>
 <a href="http://linkedin.com/in/SiavashMehran"><img src="https://img.shields.io/badge/-linkedin-blue"></a>
 
 <!---
